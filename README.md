@@ -3,8 +3,9 @@
 ## Who Am I?
 <br>
 I am Abrek, a localization specialist (Warlock if you please) and a web development enthusiast.
-<br>
+<br><br>
 I am proficient at:
+<br>
 
 - Game/Website/App Localization
 - Localization Project Management
