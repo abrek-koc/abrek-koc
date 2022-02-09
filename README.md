@@ -1,4 +1,4 @@
-![W E L C O M E](https://user-images.githubusercontent.com/44588876/137596000-7a7fac62-4228-436b-9a1c-8d0cc80a894d.gif)
+![W E L C O M E](https://user-images.githubusercontent.com/44588876/153298216-5d450df5-e959-42ce-86cf-d9a8c1ea52f2.png)
 
 ## Who Am I?
 <br>
@@ -16,4 +16,4 @@ I am proficient at:
 
 ## Got A Project On Your Mind? (Localization, Community, Knowledge Base Creation etc.)
 
-**You can simply contact me through my socials that you can find on my [website](https://horselord-abrek.github.io).**
+**You can simply contact me through my socials that you can find on my [website](https://abrekkoch.com).**
