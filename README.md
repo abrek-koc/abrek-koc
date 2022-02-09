@@ -1,4 +1,4 @@
-![W E L C O M E](https://user-images.githubusercontent.com/44588876/153298216-5d450df5-e959-42ce-86cf-d9a8c1ea52f2.png)
+![W E L C O M E](https://user-images.githubusercontent.com/44588876/153299003-0c0e6c7e-9280-499e-8b0b-7ec1850e11cc.png)
 
 ## Who Am I?
 <br>
