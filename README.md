@@ -15,6 +15,6 @@ I am proficient at:
 - Technical Translation
 <br><br>
 
-## Got A Project On Your Mind? (Localization, Community, Knowledge Base Creation etc.)
+## Got A Project On Your Mind?
 
 **You can simply contact me through my socials that you can find on my [website](https://abrekkoch.com).**
