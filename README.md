@@ -1,4 +1,4 @@
-![W E L C O M E]![WELCOME](https://user-images.githubusercontent.com/44588876/187804764-0e8722c0-b002-4021-8ba7-7ec362aa9a13.gif)
+[WELCOME](https://user-images.githubusercontent.com/44588876/187804764-0e8722c0-b002-4021-8ba7-7ec362aa9a13.gif)
 
 
 
