@@ -23,6 +23,8 @@ I am not quite proficient at (but trying hard):
 - Creative Management
 - Product Management
 
-#### I crawl through indie works to find games and write stuff about them. I do this mostly to learn more about game design and to better improve my writing skills on gaming industry. You can find my Medium blog below.
+#### I crawl through indie works to find games and write stuff about them.
+I do this mostly to learn more about game design and to better improve my writing skills on gaming industry.
+You can find my Medium blog below.
 
 **https://medium.com/@abrekkoch**
