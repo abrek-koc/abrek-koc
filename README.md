@@ -4,7 +4,7 @@
 
 ## Who Am I?
 <br>
-I am Abrek, a localization specialist (Warlock if you please) and a web development enthusiast.
+I am Abrek, a localization warlock and game industry newbie.
 <br><br>
 I am proficient at:
 <br><br>
@@ -13,9 +13,16 @@ I am proficient at:
 - Localization Project Management
 - Localization Engineering (File Formats, Automation, Database Maintenance etc.)
 - Subtitling
-- Technical Translation
 <br><br>
 
-## Got A Project On Your Mind?
+I am not quite proficient at (but trying hard):
+<br><br>
 
-**You can simply contact me through my socials that you can find on my [website](https://abrekkoch.com).**
+- Unity (Other tools are scary, at least I know what's going on in this one...)
+- Game Design
+- Creative Management
+- Product Management
+
+## Now as a  hobby, I crawl through itch.io to find games and write stuff about them, blog is under construction and soon to be seen below.
+
+**Yes, the blog will appear here when I publish it.**
