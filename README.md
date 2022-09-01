@@ -23,6 +23,6 @@ I am not quite proficient at (but trying hard):
 - Creative Management
 - Product Management
 
-## Now as a  hobby, I crawl through indie works to find games and write stuff about them. You can reach out to my Medium blog below.
+### Now as a  hobby, I crawl through indie works to find games and write stuff about them. You can reach out to my Medium blog below.
 
 **https://medium.com/@abrekkoch**
