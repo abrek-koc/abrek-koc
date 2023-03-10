@@ -1,4 +1,5 @@
-![WELCOME](https://user-images.githubusercontent.com/44588876/187804814-2876dace-ab06-41a5-b303-f29ece721e9d.gif)
+[WELCOME!](https://user-images.githubusercontent.com/44588876/224436044-6accd39e-defe-4354-ba50-3aa80e41931f.png)
+
 
 
 
