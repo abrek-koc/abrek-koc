@@ -1,6 +1,5 @@
 ![Abrek Banner](https://user-images.githubusercontent.com/44588876/224436283-ced47436-8e2a-4a50-93d0-1356a45cf26f.png)
 <br>
-<br>
 
 <h2 align="center">Hi! I'm Abrek.</h2>
 <br>
@@ -11,8 +10,6 @@
 <p align="center">I'm mostly lurking but you can always find me on <a href="https://twitter.com/HorseLord_Abrek" rel="noopener noreferrer" target="_blank">Twitter</a>.</p>
 <br>
 <br>
-<br>
-
 <h2 align="center">Featured Projects</h2>
 <br>
 
