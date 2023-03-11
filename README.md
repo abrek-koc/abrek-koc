@@ -5,7 +5,7 @@
 <h3 align="center">Localization Specialist and Front-End Developer</h3>
 <br>
 <p align="center">My passion and profession is to adapt and amplify the value of products and services to different cultures.</p>
-<p align="center">I'm mostly lurking but you can always find me on <a href="https://twitter.com/HorseLord_Abrek" rel="noopener noreferrer" target="_blank">Twitter</a>.</p>
+<p align="center">You can always contact me through <a href="https://www.linkedin.com/in/abrekkoch/" rel="noopener noreferrer" target="_blank">LinkedIn</a>.</p>
 <br>
 <h2 align="center">Featured Projects</h2>
 <br>
