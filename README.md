@@ -1,4 +1,4 @@
-![Abrek Banner](https://user-images.githubusercontent.com/44588876/224436283-ced47436-8e2a-4a50-93d0-1356a45cf26f.png)
+![Abrek Banner](https://user-images.githubusercontent.com/44588876/233795288-c886632d-34bb-400e-8428-b2c6bd6dccb2.png)
 <br>
 <h2 align="center">Hi! I'm Abrek.</h2>
 <br>
