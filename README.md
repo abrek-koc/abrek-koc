@@ -45,10 +45,10 @@
 <h3 align="center">Project Mystery (TBA)</h3>
 <div align="center">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://static.wikia.nocookie.net/nintendo/images/0/02/Question_Block_NSMB.png/revision/latest?cb=20151206055532&path-prefix=en" width="400" height="250" alt="???"></a>
+</div> 
 </div>
-</tr>     
 </table>                                                                                 
-</div>
+
 
 <br>
 <br>
