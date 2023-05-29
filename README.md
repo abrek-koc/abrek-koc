@@ -47,7 +47,6 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://static.wikia.nocookie.net/nintendo/images/0/02/Question_Block_NSMB.png/revision/latest?cb=20151206055532&path-prefix=en" width="400" height="250" alt="???"></a>
 </div>
 </tr>     
-</td>
 </table>                                                                                 
 </div>
 
