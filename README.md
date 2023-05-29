@@ -34,6 +34,7 @@
 <div align="center">
 <a href="https://store.steampowered.com/app/1201270/A_Space_for_the_Unbound/" target="_blank"><img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/a/a-space-for-the-unbound-switch/hero" width="400" height="250" alt="ASTFU"></a>
 </div>     
+</td>
 
 <td width="50%">
 <h3 align="center">Mighty Quest Rogue Palace</h3>
@@ -45,7 +46,6 @@
 <div align="center">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://static.wikia.nocookie.net/nintendo/images/0/02/Question_Block_NSMB.png/revision/latest?cb=20151206055532&path-prefix=en" width="400" height="250" alt="???"></a>
 </div>     
-</td>
 
 </table>                                                                                 
 </div>
