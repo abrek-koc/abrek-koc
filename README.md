@@ -35,7 +35,6 @@
 <a href="https://store.steampowered.com/app/1201270/A_Space_for_the_Unbound/" target="_blank"><img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/a/a-space-for-the-unbound-switch/hero" width="400" height="250" alt="ASTFU"></a>
 </div>     
 </td>
-</tr>
 
 <tr>
 <td width="50%">
