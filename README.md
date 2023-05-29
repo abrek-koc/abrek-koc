@@ -36,7 +36,6 @@
 </div>     
 </td>
 
-<tr>
 <td width="50%">
 <h3 align="center">Mighty Quest Rogue Palace</h3>
 <div align="center">                                       
