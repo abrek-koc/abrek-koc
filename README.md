@@ -36,22 +36,19 @@
 </div>     
 </td>
 
-<tr>
 <td width="50%">
 <h3 align="center">Mighty Quest Rogue Palace</h3>
 <div align="center">                                       
-<a href="https://apps.apple.com/us/app/mighty-quest-rogue-palace/id1639990245" target="_blank"> <img src="https://abrekfolio.carrd.co/assets/images/image02.jpg?v=d57ab98c" width="400" height="250" alt="Deep In Galaxies"></a>
+<a href="https://apps.apple.com/us/app/mighty-quest-rogue-palace/id1639990245" target="_blank"> <img src="https://abrekfolio.carrd.co/assets/images/image02.jpg?v=d57ab98c" width="400" height="250" alt="MQRP"></a>
 </div>
-</tr>
 
-<tr>
 <h3 align="center">Project Mystery (TBA)</h3>
 <div align="center">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://static.wikia.nocookie.net/nintendo/images/0/02/Question_Block_NSMB.png/revision/latest?cb=20151206055532&path-prefix=en" width="400" height="250" alt="???"></a>
 </div> 
-</tr>
+</td>
+
 </div>
-</table>                                                                                 
 
 
 <br>
