@@ -42,7 +42,7 @@
 <div align="center">                                       
 <a href="https://apps.apple.com/us/app/mighty-quest-rogue-palace/id1639990245" target="_blank"> <img src="https://abrekfolio.carrd.co/assets/images/image02.jpg?v=d57ab98c" width="400" height="250" alt="Deep In Galaxies"></a>
 </div>
-
+</tr>
 <tr>
 <h3 align="center">Project Mystery (TBA)</h3>
 <div align="center">
