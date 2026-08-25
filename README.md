@@ -16,7 +16,7 @@
   </p>
 </div>
 
-I build at the intersection of **language, automation, and systems engineering**. The aim is to have fun.
+I build at the intersection of **language, automation, and systems engineering**. The aim is to have fun. I run a cool homelab fleet too (open to chat about it).
 
   
 ### What I work on
