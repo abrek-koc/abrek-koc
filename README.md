@@ -25,7 +25,7 @@ I build at the intersection of **language, automation, and systems engineering**
 
 ### Selected work
 
-| Project | Focus | Interest
+| Project | Focus |
 | :-- | :-- |
 | [tm2tb](https://github.com/abrek-koc/tm2tb) | Bilingual term extraction from translation data |
 | [xliff-buddy](https://github.com/abrek-koc/xliff-buddy) | Browser-based inspection of XLIFF localization files |
