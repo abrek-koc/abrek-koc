@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://i.redd.it/i9xhrkom66rc1.gif" width="100%" alt="Animated retro technology banner" />
+  <img width="680" height="240" alt="i9xhrkom66rc1" src="https://github.com/user-attachments/assets/5f76ee69-cd90-4054-9419-5b46ecffbadb" />
+
 
   <h1>Abrek Koç</h1>
 
@@ -15,14 +16,14 @@
 </div>
 
 I build at the intersection of **language, automation, and systems engineering**. The aim is to have fun.
-
+<div align="center">
 ### What I work on
 
 - **Localization engineering:** XLIFF, translation memories, termbases, bilingual terminology extraction, QA tooling, continuous localization, and NLP-assisted workflows.
 - **Automation:** I love Java. I automate with Java. Java is cool.
 - **Low-level & systems:** C/C++, Rust, ESP32 and embedded experiments, OBD-II diagnostics, networking, Linux, and the boundary between software and hardware.
 - **DevOps:** Docker/Compose, Nginx reverse proxies, Cloudflare, CI/CD, production Linux deployments, observability, and pragmatic service operations.
-
+</div>
 ### Selected work
 
 | Project | Focus |
