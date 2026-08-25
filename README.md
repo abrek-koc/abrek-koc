@@ -28,7 +28,6 @@ I build at the intersection of **language, automation, and systems engineering**
 | Project | Focus |
 | :-- | :-- |
 | [tm2tb](https://github.com/abrek-koc/tm2tb) | Bilingual term extraction from translation data |
-| [xliff-buddy](https://github.com/abrek-koc/xliff-buddy) | Browser-based inspection of XLIFF localization files |
 | [distanced-linguistics](https://github.com/abrek-koc/distanced-linguistics) | Interactive Levenshtein-distance demo |
 | [esp32-obd2](https://github.com/abrek-koc/esp32-obd2) | ESP32-based vehicle diagnostics and embedded C++ |
 
