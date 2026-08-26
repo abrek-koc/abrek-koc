@@ -4,11 +4,9 @@
 
 
   <h1>Abrek Koç</h1>
-<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=automation;localization;throwing+goblins+around;computational+linguistics;embedded+systems;devops" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F77244&center=true&vCenter=true&random=true&width=435&lines=automation;localization;throwing+goblins+around;computational+linguistics;embedded+systems;devops" alt="Typing SVG" />
   </a>
-</div>
 
   <p>
     <a href="https://www.linkedin.com/in/abrekkoch/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
