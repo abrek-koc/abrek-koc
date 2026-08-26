@@ -6,7 +6,7 @@
   <h1>Abrek Koç</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=Localization+Automation+Engineer;Computational+Linguist;Systems-minded+Builder;Making+language+workflows+less+manual" alt="Automation Engineer, Computational Linguist, Systems-minded Builder" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=automation;localization;throwing+goblins+around;computational+linguistics;embedded+systems;devops" alt="Typing SVG" />
   </a>
 
   <p>
