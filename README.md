@@ -4,9 +4,6 @@
 
 
   <h1>Abrek Koç</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F77244&center=true&vCenter=true&random=true&width=435&lines=automation;localization;throwing+goblins+around;computational+linguistics;embedded+systems;devops" alt="Typing SVG" />
-  </a>
 
   <p>
     <a href="https://www.linkedin.com/in/abrekkoch/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -35,11 +32,6 @@ I build at the intersection of **language, automation, and systems engineering**
 | [distanced-linguistics](https://github.com/abrek-koc/distanced-linguistics) | Interactive Levenshtein-distance demo |
 | [esp32-obd2](https://github.com/abrek-koc/esp32-obd2) | ESP32-based vehicle diagnostics and embedded C++ |
 
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,cpp,c,docker,linux,nginx,git,githubactions,cloudflare&perline=10" alt="Python, TypeScript, C++, C, Docker, Linux, Nginx, Git, GitHub Actions, and Cloudflare" />
-  <br /><br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrek-koc&theme=github_dark" alt="Abrek's GitHub contribution summary" />
 </div>
 
 <p align="center"><code>language data → useful tooling → reliable delivery</code></p>
